@@ -1,3 +1,1 @@
-Hello Git and GitHub.
-
-My name is Conrad
+Hello Git and GitHub
